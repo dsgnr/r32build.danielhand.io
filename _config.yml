@@ -1,0 +1,15 @@
+title: My MK4 R32 restoration project 
+email: your-email@example.com
+description: A blog about my VW MK4 Golf R32 restore project
+baseurl: "/"
+url: "https://r32build.danielhand.io" 
+paginate: 15
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+
+url: "https://r32build.danielhand.io"
+author: "Dan"
+author_avatar: "/assets/images/daniel-hand-gravatar.jpg"
+author_description: "I am a coffee lover and Linux Automation Engineer from England."
