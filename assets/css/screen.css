@@ -646,7 +646,7 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     display: table;
     width: 100%;
-    height: 400px;
+    height: 100px;
     margin-bottom: 5rem;
     text-align: center;
     background: #f8f8f8 no-repeat center center;
@@ -833,7 +833,7 @@ margin on the iframe, cause it breaks stuff. */
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 3.5rem;
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
@@ -902,7 +902,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 body:not(.post-template) .post-title {
-    font-size: 3.6rem;
+    font-size: 2.5em;
 }
 
 .post-title a {
@@ -953,7 +953,6 @@ body:not(.post-template) .post-title {
 
 .post-date {
     display: inline-block;
-    margin-left: 8px;
     text-transform: uppercase;
     font-size: 1.3rem;
     white-space: nowrap;
@@ -1071,7 +1070,7 @@ body:not(.post-template) .post-title {
 
 .post-footer p {
     margin: 1rem 0;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     line-height: 1.75em;
 }
 
@@ -1461,7 +1460,7 @@ body:not(.post-template) .post-title {
     padding: 0.5rem 15px;
     border-top: #EBF2F6 1px solid;
     font-family: "Open Sans", sans-serif;
-    font-size: 1rem;
+    font-size: 1.4rem;
     line-height: 1.75em;
     color: #BBC7CC;
 }

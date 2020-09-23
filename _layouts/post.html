@@ -3,12 +3,6 @@ layout: default
 archive: false
 post_class: post-template
 ---
-<header class="main-header">
-    <nav class="main-nav overlay clearfix">
-        <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
-    </nav>
-</header>
 <main class="content" role="main">
     <article class="post">
         <header class="post-header">
@@ -18,7 +12,7 @@ post_class: post-template
                     {{ page.date | date_to_string }}
                 </time>
                 {% if page.categories.size > 0 %}
-                    {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
+                    {{ page.categories | array_to_sentence_string | prepend: 'in ' }}
                 {% endif %}
             </section>
         </header>

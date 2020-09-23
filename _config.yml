@@ -12,4 +12,6 @@ plugins:
 url: "https://r32build.danielhand.io"
 author: "Dan"
 author_avatar: "/assets/images/daniel-hand-gravatar.jpg"
-author_description: "I am a coffee lover and Linux Automation Engineer from England."
+author_description: |
+    I am a coffee lover and Linux Software Engineer from England.</br>
+    Want to get in touch? Email me at <a href='mailto:email@danielhand.io'>email@danielhand.io</a>
