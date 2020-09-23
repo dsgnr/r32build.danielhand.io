@@ -1,7 +1,7 @@
 title: My MK4 R32 restoration project 
 email: your-email@example.com
 description: A blog about my VW MK4 Golf R32 restore project
-baseurl: "/"
+baseurl: "https://r32build.danielhand.io"
 url: "https://r32build.danielhand.io" 
 paginate: 15
 plugins:
