@@ -20,6 +20,8 @@ Placed an order at TPS for the following:
 - Throttle body gasket (again)
 - Various intake manifold bolts (again)
 
+Plugs are NGK IZKR7Bs for reference.
+
 <figure class="full-img"><img src="/assets/images/failing-fitting-new-plugs-1.jpeg" alt="MK4 R32 failing fitting new spark plugs"></figure>
 <figure class="full-img"><img src="/assets/images/failing-fitting-new-plugs-2.jpeg" alt="MK4 R32 failing fitting new spark plugs"></figure>
 
