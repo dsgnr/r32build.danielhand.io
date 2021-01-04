@@ -7,10 +7,10 @@ post_description: Fitting Lucifer manifolds
 author: dan_hand
 ---
 
-I managed to get some time today to fit the Lucifer high flow manifolds. These went on pretty easily, just a little fiddly when you're on your own! More pictures to come when it stops raining! I also rewnewed the following parts whilst I was here:
+I managed to get some time today to fit the Lucifer high flow manifolds. These went on pretty easily, just a little fiddly when you're on your own! More pictures to come when it stops raining! I also renewed the following parts whilst I was here:
 
 - Intake manifold gasket
-- Intake manifold gromets
+- Intake manifold grommets 
 - Throttle body gasket
 - Exhaust manifold gaskets
 - Exhaust manifold studs and nuts
