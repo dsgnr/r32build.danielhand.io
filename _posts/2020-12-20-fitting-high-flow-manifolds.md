@@ -18,4 +18,5 @@ I managed to get some time today to fit the Lucifer high flow manifolds. These w
 
 <figure class="full-img"><img src="/assets/images/fitting-high-flow-manifolds-1.jpeg" alt="MK4 R32 fitting high flow manifolds"></figure>
 <figure class="full-img"><img src="/assets/images/fitting-high-flow-manifolds-2.jpeg" alt="MK4 R32 fitting high flow manifolds"></figure>
+<figure class="full-img"><img src="/assets/images/fitting-high-flow-manifolds-3.jpeg" alt="MK4 R32 fitting high flow manifolds"></figure>
 
