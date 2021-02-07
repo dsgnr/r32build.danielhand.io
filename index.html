@@ -7,7 +7,7 @@ cover: false
     <div class="extra-pagination inner">
         {% include pagination.html %}
     </div>
-    {% for post in paginator.posts %}
+    {% for post in paginator.posts reversed %}
         <article class="post">
             <header class="post-header">
                 <h2 class="post-title">
